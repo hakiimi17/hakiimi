@@ -1,2 +1,0 @@
-# hakiimi
-README
